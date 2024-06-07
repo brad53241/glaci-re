@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glacières de Qualité</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .feature {
+            background-color: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0073e6;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #0073e6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur Glacières de Qualité</h1>
+        <p>Les meilleures glacières pour toutes vos aventures</p>
+    </header>
+    <div class="container">
+        <div class="feature">
+            <h2>Structure de Base</h2>
+            <p>Nos glacières sont conçues avec une structure robuste et durable pour garantir une performance optimale. Le corps principal est fabriqué à partir de matériaux de haute qualité, offrant une excellente isolation thermique.</p>
+        </div>
+        <div class="feature">
+            <h2>Roues</h2>
+            <p>Nous avons ajouté des roues larges et robustes pour faciliter le transport, même sur des terrains accidentés. Ces roues sont conçues pour être durables et résistantes.</p>
+        </div>
+        <div class="feature">
+            <h2>Porte-Gobelets</h2>
+            <p>Nos glacières sont équipées de porte-gobelets intégrés sur le dessus, parfaits pour garder vos boissons à portée de main.</p>
+        </div>
+        <div class="feature">
+            <h2>Accessoires de Transport</h2>
+            <p>Pour plus de commodité, nous avons inclus des sangles et des supports pour accessoires comme un parasol, vous permettant de personnaliser votre expérience en fonction de vos besoins.</p>
+        </div>
+        <div class="feature">
+            <h2>Système de Verrouillage</h2>
+            <p>Pour assurer la sécurité de vos affaires, chaque glacière est équipée d'un verrou à code. Vous pouvez ainsi profiter de vos activités sans vous inquiéter de la sécurité de vos objets personnels.</p>
+        </div>
+    </div>
+    <footer>
+        <p>Contactez-nous à : <a href="mailto:contact@glacieresdequalite.com">contact@glacieresdequalite.com</a></p>
+    </footer>
+</body>
+</html>
